@@ -80,30 +80,9 @@ Aplikasi akan berjalan di:
 - Gunakan tombol Hapus untuk menghapus data dari daftar.
 - Semua perubahan akan langsung tersimpan di local storage browser, sehingga tetap tersedia meskipun halaman direfresh.
 
-## 🧰 Konfigurasi Tambahan (Opsional)
-Jika kamu ingin reset data atau debug local storage:
-
-**Buka Developer Tools → Application → Local Storage**
-
-Hapus key dengan nama mhsData atau sesuai key yang digunakan di kode.
-
-💡 Ide Pengembangan Lanjutan
-🔗 Tambahkan backend (mis. Express + MongoDB)
-
-📧 Validasi email otomatis
-
-🔍 Tambahkan fitur pencarian dan filter mahasiswa
-
-💾 Ekspor data ke CSV atau Excel
-
-🌙 Mode gelap (Dark Mode) dengan Tailwind
-
-🤝 Kontribusi
+# 🤝 Kontribusi
 Kontribusi sangat terbuka!
 Untuk menambahkan fitur atau memperbaiki bug:
-
-
-Salin kode
 
 # Buat branch baru
 
